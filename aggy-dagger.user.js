@@ -107,7 +107,7 @@
                                                         .replace(/\w+/, "")
                                                     )
                                         ) {
-                                            post.remove()
+                                            // post.remove()
                                         }
                                     }
                             )
